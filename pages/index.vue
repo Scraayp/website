@@ -1,5 +1,5 @@
 <template>
-  <h1 class="text-color-red-100">test</h1>
+  <h1 class="text-red-500">test</h1>
 </template>
 
 <script lang="ts">
